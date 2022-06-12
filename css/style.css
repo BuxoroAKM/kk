@@ -1,0 +1,23 @@
+.movieimg{
+    width: 18rem;
+    height: 18rem;
+    object-fit: fill;
+}
+
+.c1{
+    display: flex;
+    justify-content: flex-start;
+}
+.c2{
+    display: flex;
+    justify-content: flex-end;
+}
+.bookimg{
+    width: 30rem;
+    height: 30rem;
+}
+.pgn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
